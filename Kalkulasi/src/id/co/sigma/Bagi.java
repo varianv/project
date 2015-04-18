@@ -1,0 +1,9 @@
+package id.co.sigma;
+
+public class Bagi {
+	// komentar dummy
+	// ini adalah proses pembagian angka 1 dan angka 2
+	public float doBagi(int angka1, int angka2) {
+		return (float)angka1/ (float)angka2;
+	}
+}
