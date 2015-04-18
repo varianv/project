@@ -5,5 +5,6 @@ public class Bagi {
 	// ini adalah proses pembagian angka 1 dan angka 2
 	public float doBagi(int angka1, int angka2) {
 		return (float)angka1/ (float)angka2; // perhitungan ini sudah valid
+	// dilakukan pengecekan ulang, ternyata perhitungan ini sudah benar-benar valid
 	}
 }
